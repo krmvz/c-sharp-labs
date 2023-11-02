@@ -1,0 +1,10 @@
+C:\Users\Hp\Documents\software_labs\lab11\lab11\lab11\bin\Debug\lab11.exe.config
+C:\Users\Hp\Documents\software_labs\lab11\lab11\lab11\bin\Debug\lab11.exe
+C:\Users\Hp\Documents\software_labs\lab11\lab11\lab11\bin\Debug\lab11.pdb
+C:\Users\Hp\Documents\software_labs\lab11\lab11\lab11\obj\Debug\lab11.csproj.AssemblyReference.cache
+C:\Users\Hp\Documents\software_labs\lab11\lab11\lab11\obj\Debug\lab11.Form1.resources
+C:\Users\Hp\Documents\software_labs\lab11\lab11\lab11\obj\Debug\lab11.Properties.Resources.resources
+C:\Users\Hp\Documents\software_labs\lab11\lab11\lab11\obj\Debug\lab11.csproj.GenerateResource.cache
+C:\Users\Hp\Documents\software_labs\lab11\lab11\lab11\obj\Debug\lab11.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Documents\software_labs\lab11\lab11\lab11\obj\Debug\lab11.exe
+C:\Users\Hp\Documents\software_labs\lab11\lab11\lab11\obj\Debug\lab11.pdb
